@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1020235347301",
+    "firebase_url": "https://toyapplicationlogger2.firebaseio.com",
+    "project_id": "toyapplicationlogger2",
+    "storage_bucket": "toyapplicationlogger2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020235347301:android:6ba4455832df3538",
+        "android_client_info": {
+          "package_name": "com.overswell.toy_application_logger_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020235347301-v1bfr3b5thu1ob055gcuh8ckm5drisos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.overswell.toy_application_logger_2",
+            "certificate_hash": "ceb54c06b4b16ab4d71b929885d36ff92e908dd0"
+          }
+        },
+        {
+          "client_id": "1020235347301-olijcg9m3187229tmt5pi3s1tsg8d45h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTJLnTZzGwU0S5WVzjCMMVwFvaHkfjvxg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020235347301-olijcg9m3187229tmt5pi3s1tsg8d45h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

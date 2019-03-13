@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">toy-application-logger-2</string>
+    <string name="log_location">Log Location</string>
+    <string name="home">Home</string>
+    <string name="visit">visit</string>
+    <string name="locations">Locations</string>
+</resources>
