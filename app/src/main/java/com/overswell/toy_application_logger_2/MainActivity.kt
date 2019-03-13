@@ -54,8 +54,7 @@ class MainActivity : AppCompatActivity() {
 }
 
 class MainViewModel(
-    val db: DatabaseReference,
-    val fusedLocationProviderClient: FusedLocationProviderClient
+    val db: DatabaseReference
 ) : ViewModel() {
 
     fun locationUpdate(location: Location) {
