@@ -19,10 +19,10 @@ class MainApplication : Application() {
 }
 
 val firebaseModule = module {
-    single { FirebaseDatabase.getInstance() }
-    single { get<FirebaseDatabase>().reference }
+    single { FirebaseDatabase.getInstance().reference }
 }
 
 val viewModelModule = module {
     viewModel { MainViewModel(get()) }
 }
+
