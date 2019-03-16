@@ -35,6 +35,7 @@ class MainActivity : AppCompatActivity() {
                         }
                     }
                 } catch (e: SecurityException) {
+                    textView.text = e.message
                 }
             }
         }
